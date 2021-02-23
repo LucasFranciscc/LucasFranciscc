@@ -1,9 +1,9 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://raw.githubusercontent.com/LucasFranciscc/LucasFranciscc/main/NLW04_pack_divulgacao_-_Github.png">
 
-# Thiago Marinho
+# Lucas Francisco
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
+Gosto muito de trabalhar com programação, principalmente back-end, a programação me traz inspiração e vontade de criar coisas inimaginaveis.
 Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
