@@ -1,5 +1,3 @@
-<img width="auto" src="https://raw.githubusercontent.com/LucasFranciscc/LucasFranciscc/main/NLW04_pack_divulgacao_-_Github.png">
-
 # Lucas Francisco
 
 ## Olá pessoal 👋
